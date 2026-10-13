@@ -1,0 +1,8 @@
+# скачанная почта и упакованные архивы
+archive/
+*.tar.xz
+*.tar.xz.part
+
+.idea/
+.DS_Store
+__pycache__/
